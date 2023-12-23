@@ -1,0 +1,6 @@
+/**: # wildcard for the node name
+  ros__parameters:
+    setpoint: [1.0,1.0,-0.5]
+    proportionalGain: [0.0,0.0,0.0]
+    integralGain: [0.0,0.0,0.0]
+    derivateGain: [0.0,0.0,0.0]
